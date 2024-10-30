@@ -1,0 +1,16 @@
+{
+  "DEBUG": false,
+  "DB": {
+    "host": "localhost",
+    "user": "root",
+    "password": "root",
+    "database": "short_link"
+  },
+  "KEYS": [
+    "Example"
+  ],
+  "LISTEN": [
+    "0.0.0.0",
+    "50002"
+  ]
+}
